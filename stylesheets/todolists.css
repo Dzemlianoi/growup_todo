@@ -1,0 +1,11 @@
+.add-todolist {
+  margin-top: 180px;
+  width: 200px;
+  height: 45px;
+  background-color: salmon;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 10px grey;
+  color: white;
+  font-weight: bold;
+}

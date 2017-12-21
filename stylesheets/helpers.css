@@ -1,0 +1,40 @@
+.active{
+  color: darkorange;
+}
+
+.active:hover{
+  cursor: pointer;
+}
+
+.has-error{
+  color: red;
+}
+
+.has-error-bg{
+  background-color: red;
+}
+
+.has-error input{
+  outline-color: red;
+}
+
+.has-success{
+  color: green;
+}
+
+.has-success-bg{
+  background-color: green;
+}
+
+.has-success input{
+  color: green;
+  border: 1px solid grey;
+}
+
+.errors{
+  visibility: hidden;
+}
+
+.has-error .errors{
+  visibility: visible;
+}
